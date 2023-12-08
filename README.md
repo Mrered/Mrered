@@ -8,7 +8,7 @@
 - 🎓 东大男子职业技术学院自动化学院
 - 🔭 个人网站维护
 - 🌱 电子和电气 | 人工智能 | macOS 应用开发 | Docker | K3s
-- 👯 [<p style="text-align: center"><img src="https://github.com/Mrered/Mrered/assets/34948506/3770566b-fb49-4a7d-a23b-a1504f603a7d" width="50%" height="auto" style="display: inline-block"></p>
+- 👯 [<img src="https://github.com/Mrered/Mrered/assets/34948506/3770566b-fb49-4a7d-a23b-a1504f603a7d" width="33%" height="auto" style="display: inline-block">
 ](https://github.com/ivaquero/homebrew-chinese)
 - 🤔 创建 API | 制作 Dockerfile
 - 💬 软件推荐
