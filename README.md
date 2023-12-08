@@ -36,9 +36,11 @@
 
 ### ⭐ 项目
 
-<a href="https://github.com/ivaquero/homebrew-chinese">
-  <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/3770566b-fb49-4a7d-a23b-a1504f603a7d" width="33%" height="auto" style="display: inline-block">
-</a>
+<p style="text-align: center">
+  <a href="https://github.com/ivaquero/homebrew-chinese">
+    <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/3770566b-fb49-4a7d-a23b-a1504f603a7d" width="33%" height="auto" style="display: inline-block">
+  </a>
+</p>
 
 <a href="127.0.0.1">
   <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/6e8e2ae8-a150-41cf-8ccf-8f9d588417c8" width="33%" height="auto" style="display: inline-block">
