@@ -42,8 +42,10 @@
   </a>
 </p>
 
-<a href="127.0.0.1">
-  <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/6e8e2ae8-a150-41cf-8ccf-8f9d588417c8" width="33%" height="auto" style="display: inline-block">
-</a>
+<p style="text-align: center">
+  <a href="127.0.0.1">
+    <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/6e8e2ae8-a150-41cf-8ccf-8f9d588417c8" width="33%" height="auto" style="display: inline-block">
+  </a>
+</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mrered&show_icons=true&theme=tokyonight" />
