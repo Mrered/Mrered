@@ -58,14 +58,28 @@
 ### ⭐ 项目
 
 <p style="text-align: center">
-  <a href="https://github.com/ivaquero/homebrew-chinese">
-    <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/3770566b-fb49-4a7d-a23b-a1504f603a7d" width="33%" height="auto" style="display: inline-block">
+  <a href="https://github.com/brewforge/homebrew-chinese">
+    <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/2d118f51-166f-4dd9-bb0d-9791082ad0f4" width="33%" height="auto" style="display: inline-block">
+  </a>
+</p>
+
+<p style="text-align: center">
+  <a href="https://github.com/brewforge/homebrew-extras">
+    <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/689ddea2-b552-4582-a14a-58e07379de28" width="33%" height="auto" style="display: inline-block">
   </a>
 </p>
 
 <p style="text-align: center">
   <a href="127.0.0.1">
     <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/6e8e2ae8-a150-41cf-8ccf-8f9d588417c8" width="33%" height="auto" style="display: inline-block">
+  </a>
+</p>
+
+### 🧑‍🤝‍🧑 组织
+
+<p style="text-align: center">
+  <a href="https://github.com/brewforge">
+    <img align="center" src="https://github.com/Mrered/Mrered/assets/34948506/3e86e14c-2075-4f0b-aa10-0827a3e31faa" width="33%" height="auto" style="display: inline-block">
   </a>
 </p>
 
