@@ -5,7 +5,7 @@
 ### 全栈技术专家 · 工程体系建设者 · 跨领域创新者
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mreredcio&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/mreredcio?style=social)](https://github.com/mrered)
+[![GitHub followers](https://img.shields.io/github/followers/mrered?style=social)](https://github.com/mrered)
 
 </div>
 
