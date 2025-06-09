@@ -147,14 +147,14 @@ Docker技能:
 
 ## 📫 联系方式
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mreredcio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrered@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrered)
 
 ### 💡 "持续学习，永不止步"
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrered&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=mrered&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrered&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrered&count_private=true)
 
 </div>
 
